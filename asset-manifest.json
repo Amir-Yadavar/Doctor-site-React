@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Doctor-site-React/static/css/main.0cf83f55.css",
+    "main.js": "/Doctor-site-React/static/js/main.a7eb6e46.js",
+    "static/js/787.f3d7924f.chunk.js": "/Doctor-site-React/static/js/787.f3d7924f.chunk.js",
+    "static/media/2.png": "/Doctor-site-React/static/media/2.ee3358e844365ed163ed.png",
+    "static/media/1.png": "/Doctor-site-React/static/media/1.937c89f45c1a0cc5aefd.png",
+    "static/media/img1.webp": "/Doctor-site-React/static/media/img1.dcc8684a3b67c0703311.webp",
+    "static/media/counter-bg.jpg.webp": "/Doctor-site-React/static/media/counter-bg.jpg.bbaeb921eec65d6446e0.webp",
+    "static/media/content-3.webp": "/Doctor-site-React/static/media/content-3.35ff458131d7bff20a61.webp",
+    "static/media/content1.webp": "/Doctor-site-React/static/media/content1.a39e27867580a695622a.webp",
+    "static/media/content1-b.webp": "/Doctor-site-React/static/media/content1-b.05327f7ca49ac2605738.webp",
+    "static/media/content-3-b.webp": "/Doctor-site-React/static/media/content-3-b.712ef67147d5d3e15040.webp",
+    "static/media/footer_logo.webp": "/Doctor-site-React/static/media/footer_logo.a1d6703a7b87a6ef28e1.webp",
+    "index.html": "/Doctor-site-React/index.html",
+    "main.0cf83f55.css.map": "/Doctor-site-React/static/css/main.0cf83f55.css.map",
+    "main.a7eb6e46.js.map": "/Doctor-site-React/static/js/main.a7eb6e46.js.map",
+    "787.f3d7924f.chunk.js.map": "/Doctor-site-React/static/js/787.f3d7924f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cf83f55.css",
+    "static/js/main.a7eb6e46.js"
+  ]
+}
