@@ -8,8 +8,8 @@
 ### This project is made with component class and is responsive
 
 
+![Screenshot (75)](https://user-images.githubusercontent.com/110972269/205648137-0e7aa01c-2813-4fee-aaed-a85e55119cfd.png)
 
-![Screenshot (75)](https://user-images.githubusercontent.com/110972269/205646448-98561bcb-785f-4896-9fb9-2e079f44067f.png)
 
 
 - ⏳ Created by Amir Yadavar
