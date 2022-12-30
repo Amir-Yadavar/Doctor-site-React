@@ -1,0 +1,85 @@
+@media screen and (max-width:575px) {
+    header>h2{
+        font-size: 2rem;
+        grid-area: 4/2/7/8;
+    }
+
+    header>p{
+        grid-area: 8/2/9/9;
+    }
+
+    header>button{
+        grid-area: 10/2/11/5;
+        width: 136px;
+    }
+}
+
+/* sm---------------------------------------------------------- */
+@media screen and (min-width:576px) {
+    header>h2{
+        font-size: 1.5rem;
+        grid-area: 4/2/7/8;
+    }
+
+    header>p{
+        grid-area: 8/2/9/9;
+    }
+
+    header>button{
+        grid-area: 10/2/11/5;
+        width: 136px;
+    }
+}
+
+
+/* lg----------------------------------------------------------- */
+@media screen and (min-width:992px) {
+    header>h2{
+        font-size: 2.6rem;
+        grid-area: 4/2/8/8;
+    }
+
+    header>p{
+        grid-area: 8/2/9/7;
+    }
+
+    header>button{
+        grid-area: 10/2/11/5;
+        width: 136px;
+    }
+}
+
+/* xl----------------------------------------------------------- */
+@media screen and (min-width:1200px) {
+    header>h2{
+        font-size: 2.7rem;
+        grid-area: 4/2/8/6;
+    }
+
+    header>p{
+        grid-area: 8/2/9/7;
+    }
+
+    header>button{
+        grid-area: 10/2/11/5;
+        width: 136px;
+    }
+}
+
+/* xxl----------------------------------------------------------- */
+@media screen and (min-width:1400px) {
+    header>h2{
+        font-size: 2.7rem;
+        grid-area: 5/2/8/5;
+    }
+
+    header>p{
+        grid-area:9/2/10/6;;
+    }
+
+    header>button{
+        grid-area: 11/2/12/3;
+        width: 10vw;
+    }
+}
+

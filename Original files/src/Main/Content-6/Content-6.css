@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container-six{
+    width: 100%;
+    min-height:50vh ;
+    background-image: url(../../../public/img-proje/counter-bg.jpg.webp);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+margin-bottom: 15px;
+}
+
+@media screen and (max-width:768px) {
+    .container-six{
+        flex-wrap: wrap;
+    }
+}
+@media screen and (max-width:575px) {
+    .container-six{
+        background-image:url(../../../public/img-proje/content-3-b.webp);
+    }
+}

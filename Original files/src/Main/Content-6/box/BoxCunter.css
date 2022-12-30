@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.box-cunter{
+    width: 230px;
+    height: 280px;
+    background-color: rgba(157, 157, 157, 0.498);
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    margin: 15px;
+}
+
+.box-cunter>h2{
+    height: 150px;
+    line-height: 150px;
+    font-size: 3rem;
+    font-weight: 100;
+}
+
+.box-cunter>h2>span{
+    font-size: 3rem;
+    padding: 10px;
+    color: black;
+}
+
+.box-cunter>h4{
+    font-size: 1.3rem;
+    font-weight: 300;
+}

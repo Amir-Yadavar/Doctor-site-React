@@ -1,0 +1,36 @@
+.bottom-footer{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#222222;
+    margin-top: 100px;
+}
+
+.bottom-footer>section{
+    display: flex;flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.bottom-footer>section>p{
+    color: aliceblue;
+    padding: 5px;
+    margin: 0;
+}
+
+.bottom-footer>section>section{
+    width: 250px;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+}
+
+.bottom-footer>section>section>a{
+    transition: .4s;
+}
+
+.bottom-footer>section>section>a:hover{
+    transform: scale(1.1);
+    
+}
